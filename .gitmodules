@@ -1,0 +1,6 @@
+[submodule "baseContextLibrary"]
+	path = baseContextLibrary
+	url = https://niyueming@github.com/niyueming/baseContextLibrary.git
+[submodule "changeSkinLibrary"]
+	path = changeSkinLibrary
+	url = https://niyueming@github.com/niyueming/changeSkinLibrary.git
