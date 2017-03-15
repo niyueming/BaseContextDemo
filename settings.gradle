@@ -9,6 +9,7 @@
  *
  */
 
-include ':app'
+include ':app', ':styleLibrary'
 include ':baseContextLibrary'
 include ':changeSkinLibrary'
+include ':permissionLibrary'

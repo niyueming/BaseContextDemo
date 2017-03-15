@@ -4,3 +4,9 @@
 [submodule "changeSkinLibrary"]
 	path = changeSkinLibrary
 	url = https://niyueming@github.com/niyueming/changeSkinLibrary.git
+[submodule "permissionLibrary"]
+	path = permissionLibrary
+	url = https://niyueming@github.com/niyueming/permissionLibrary.git
+[submodule "styleLibrary"]
+	path = styleLibrary
+	url = https://niyueming@github.com/niyueming/styleLibrary.git
