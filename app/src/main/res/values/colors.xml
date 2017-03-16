@@ -3,4 +3,19 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="menu_bg_color">#ffffffff</color>
+
+    <color name="text_color">#ffffffff</color>
+    <color name="text_bg_color">#ff000000</color>
+
+
+    <!--应用内换肤资源-->
+    <color name="text_color_red">#ff0000</color>
+    <color name="text_bg_color_red">#ffffff</color>
+
+
+    <color name="text_color_green">#00ff00</color>
+    <color name="text_bg_color_green">#0000ff</color>
 </resources>
