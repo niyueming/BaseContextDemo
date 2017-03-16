@@ -9,7 +9,9 @@
  *
  */
 
-include ':app', ':styleLibrary'
+include ':app'
 include ':baseContextLibrary'
-include ':changeSkinLibrary'
+include ':styleLibrary'
 include ':permissionLibrary'
+include ':changeSkinLibrary'
+include ':changeSkinImplLibrary'

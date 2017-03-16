@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/baseContextLibrary" />
+            <option value="$PROJECT_DIR$/changeSkinImplLibrary" />
             <option value="$PROJECT_DIR$/changeSkinLibrary" />
             <option value="$PROJECT_DIR$/permissionLibrary" />
             <option value="$PROJECT_DIR$/styleLibrary" />

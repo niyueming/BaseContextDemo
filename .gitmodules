@@ -10,3 +10,6 @@
 [submodule "styleLibrary"]
 	path = styleLibrary
 	url = https://niyueming@github.com/niyueming/styleLibrary.git
+[submodule "changeSkinImplLibrary"]
+	path = changeSkinImplLibrary
+	url = https://niyueming@github.com/niyueming/changeSkinImplLibrary.git
