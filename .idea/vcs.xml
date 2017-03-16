@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baseContextLibrary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/changeSkinImplLibrary" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/changeSkinLibrary" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/permissionLibrary" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/styleLibrary" vcs="Git" />
