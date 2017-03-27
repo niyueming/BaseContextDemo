@@ -156,6 +156,7 @@ public abstract class BaseActivity extends NBaseActivity {
     public void showIndicator() {
         if (mIndicator != null){
             mIndicator.setVisibility(View.VISIBLE);
+            mIndicator.bringToFront();
         }
     }
 
