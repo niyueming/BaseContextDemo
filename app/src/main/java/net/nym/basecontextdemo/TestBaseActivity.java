@@ -27,6 +27,7 @@ import java.util.Random;
 
 public class TestBaseActivity extends BaseActivity {
     boolean isShowBack;
+    boolean isShowTitle;
     int[] colors = {Color.BLACK,Color.RED,Color.BLUE,Color.CYAN,Color.DKGRAY,Color.GRAY,Color.GREEN,Color.LTGRAY
                     ,Color.MAGENTA,Color.YELLOW,Color.WHITE};
     int i = 0;
@@ -55,6 +56,9 @@ public class TestBaseActivity extends BaseActivity {
                 break;
             case R.id.changeTitleBackground:
                 setTitleBackgroundColor(colors[(i++)%colors.length]);
+                break;
+            case R.id.changeShowTitle:
+                showTitle(isShowTitle = !isShowTitle);
                 break;
         }
     }
