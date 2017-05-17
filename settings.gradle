@@ -10,6 +10,7 @@
  */
 
 include ':app'
+include ':APHBaseContextLibrary'
 include ':baseContextLibrary'
 include ':styleLibrary'
 include ':permissionLibrary'

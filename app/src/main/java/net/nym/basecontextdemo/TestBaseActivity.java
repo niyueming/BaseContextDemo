@@ -16,6 +16,8 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.View;
 
+import net.nym.aphbasecontextlibrary.common.BaseActivity;
+
 import java.util.Locale;
 import java.util.Random;
 
@@ -59,6 +61,9 @@ public class TestBaseActivity extends BaseActivity {
                 break;
             case R.id.changeShowTitle:
                 showTitle(isShowTitle = !isShowTitle);
+                break;
+            case R.id.setStatusBarColor:
+                setStatusBarColor(colors[(i++)%colors.length]);
                 break;
         }
     }

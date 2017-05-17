@@ -13,3 +13,6 @@
 [submodule "changeSkinImplLibrary"]
 	path = changeSkinImplLibrary
 	url = https://niyueming@github.com/niyueming/changeSkinImplLibrary.git
+[submodule "APHBaseContextLibrary"]
+	path = APHBaseContextLibrary
+	url = https://git.oschina.net/nym/APHBaseContextLibrary.git
