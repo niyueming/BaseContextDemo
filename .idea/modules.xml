@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/APHBaseContextLibrary/APHBaseContextLibrary.iml" filepath="$PROJECT_DIR$/APHBaseContextLibrary/APHBaseContextLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/APHBaseContextLibrary/APHBaseContextLibrary.iml" filepath="$PROJECT_DIR$/APHBaseContextLibrary/APHBaseContextLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaseContextDemo.iml" filepath="$PROJECT_DIR$/BaseContextDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baseContextLibrary/baseContextLibrary.iml" filepath="$PROJECT_DIR$/baseContextLibrary/baseContextLibrary.iml" />
